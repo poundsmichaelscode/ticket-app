@@ -48,3 +48,6 @@ Code Quality:
 Write modular, well-structured, and readable code.
 Utilize appropriate React hooks (e.g., useState, useEffect) for state management and validation.
 Implement proper form element types and validation techniques.
+
+
+link to live project :https://ticket-application-jff3x4clt-olayenikan-michael-s-projects.vercel.app/
